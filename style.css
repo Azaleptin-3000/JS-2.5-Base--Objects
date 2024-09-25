@@ -1,0 +1,17 @@
+h1 {
+    font-size: 30px;
+    color: rgb(70, 62, 93);
+    font-weight: lighter;
+    align-content: left;
+    text-align: center;
+    margin-left: 0px;
+}
+
+h2 {
+    font-size: 28px;
+    color: rgb(109, 141, 5);
+    font-weight: bolder;
+    text-align: center;
+    font-weight: Light;
+    margin-left: 0;
+}
