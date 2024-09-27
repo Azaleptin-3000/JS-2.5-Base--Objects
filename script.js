@@ -1,7 +1,7 @@
 // Задание 1. Создание и работа с объектами
 
 let user = {
-    name: "John Silver",
+    name: "John Silver", // Йо-хо-хо...
     age: 50,
     email: "john.silver@admiral-benbow.bristol.com",
 };
